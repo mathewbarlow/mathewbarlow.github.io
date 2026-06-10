@@ -1,3 +1,10 @@
+yaml---
+permalink: /research/
+title: "Research"
+author_profile: true
+---
+
+
 My research interests focus on the influence of climate, including both natural variably and climate change, on local conditions of importance to society, including both temperature and precipitation-related extremes. I am interested in the physical processes that cause extreme events, how well we can predict these events, and how they are changing in a warming climate. Some long-term research areas include: </br>
 
 -Precipitation extremes over the US, especially over the Northeast </br>
