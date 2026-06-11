@@ -14,6 +14,8 @@ My research interests focus on the influence of climate on local conditions of i
   
 I am also broadly interested in atmospheric wave dynamics, the links between the atmosphere and the ocean, and the water cycle, aspects of which are common themes throughout my work.
 
+For links to my publications, please see my [google scholar page](https://scholar.google.com/citations?user=qWV-WIQAAAAJ&hl=en).
+
 <!---
 need to add selected papers
 -->
